@@ -7,10 +7,10 @@ Le projet utilise Python 3.13 et le gestionnaire de paquets moderne uv pour la r
 
 Si vous avez uv installé :
 
-# Installer les dépendances et créer l'environnement virtuel
+Installer les dépendances et créer l'environnement virtuel
 uv sync
 
-# Lancer le notebook
+Lancer le notebook
 uv run jupyter notebook
 
 Si vous n'utilisez pas uv, un fichier standard est fourni :
